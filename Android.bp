@@ -50,6 +50,7 @@ filegroup {
         "virtgpu_cross_domain.c",
         "virtgpu_virgl.c",
         "xe.c",
+        "intel_device.c",
     ],
 }
 
